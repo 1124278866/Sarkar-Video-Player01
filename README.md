@@ -15,7 +15,7 @@ The easiest way to deploy this Bot is via Heroku.
 
 # Credit 🔥 
 ```
-|🇮🇳 Louis 
+|🇮🇳 Louis a
 |🇮🇳 Sammy
 |🇮🇳 Blaze
 |🇮🇳 Safone
